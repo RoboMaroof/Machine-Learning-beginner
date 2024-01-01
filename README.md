@@ -11,7 +11,7 @@ The datasets were sourced from Kaggle.
 ### Battery Remaining Useful Life (RUL) Prediction
 
 - **File:** [Battery_RUL_Simple_Linear_Regression.ipynb](Battery_RUL_Simple_Linear_Regression.ipynb)
-- **Description:** This notebook demonstrates a simple linear regression model to predict the Remaining Useful Life (RUL) of batteries. It provides a basic understanding of regression analysis.
+- **Description:** This notebook demonstrates simple regression models to predict the Remaining Useful Life (RUL) of batteries. It provides a basic understanding of regression analysis.
 - **Dataset:** The dataset used is sourced from Kaggle and involves battery lifecycle data.
 - **Machine Learning Methods:** 
   - **Exploratory Data Analysis:** Scatter plots, Correlation Matrix, Box Plots
@@ -24,7 +24,7 @@ The datasets were sourced from Kaggle.
 ### Customer Segmentation
 
 - **File:** [Customer_Segmentation.ipynb](Customer_Segmentation.ipynb)
-- **Description:** This notebook focuses on classifying customers into different segments. It showcases the application of logistic regression in classification problems.
+- **Description:** This notebook focuses on classifying customers into different segments. It showcases the application of regression models in classification problems.
 - **Dataset:** The dataset is obtained from Kaggle and includes various attributes for customer segmentation.
 - **Machine Learning Methods:**
   - **Exploratory Data Analysis:** Count plots, Pair plots, Distribution plots
